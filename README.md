@@ -19,7 +19,7 @@ Transliteration Table (Simplified Buckwalter):
     'ؤ'  : 'u',
     'ئ'  : 'i',
     'ا'  : 'A',
-    'إ'  : 'i',
+    'إ'  : 'I',
     'أ'  : 'a',
     'آ'  : 'O',
     'ب'  : 'b',
