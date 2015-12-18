@@ -1,5 +1,6 @@
 # Arabic_Ascii_Arabic (Python 3.4)
-The script converts Arabic text into an ASCII transliteration that can be used with text analysis programs that do not support Arabic script.
+
+The script converts Arabic text into an ASCII transliteration that can be used with text analysis programs that do not support Arabic script (for example, R for Windows).
 
 [Python 3.4 must be installed; earlier versions work with Unicode files differently]
 
